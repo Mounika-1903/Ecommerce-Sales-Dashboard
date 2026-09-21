@@ -62,5 +62,5 @@ To analyze e-commerce sales data and identify meaningful business trends and ins
 
   ## 📷 Dashboard Preview
 
-![E-Commerce Sales Dashboard](Ecommerce dashboard.png)
+![E-Commerce Sales Dashboard](Ecommerce%20dashboard.png)
 
