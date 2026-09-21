@@ -60,3 +60,7 @@ To analyze e-commerce sales data and identify meaningful business trends and ins
 - Microsoft Excel
 - Power Query
 
+  ## 📷 Dashboard Preview
+
+![E-Commerce Sales Dashboard](Ecommerce dashboard.png)
+
